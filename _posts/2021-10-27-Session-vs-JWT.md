@@ -1,9 +1,9 @@
 ---
 title: "Sessions vs JWT"
 categories:
-- DataBase
-  tags:
-- index
+  - DataBase
+tags:
+  - index
 ---
 
 ## Sessions(세션)
